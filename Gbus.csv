@@ -1,0 +1,67 @@
+Source;Relation;Target
+Business Service;fotv;Business Process
+Business Service;fotv;Business Function
+Business Service;fotv;Business Interaction
+Business Service;fotv;Business Event
+Business Service;cfgostv;Business Service
+Business Service;ao;Business Object
+Business Service;ao;Representation
+Business Service;fotv;Business Role 
+Business Service;fotv;Business Actor 
+Business Service;fotv;Business Collabration
+Business Interface ;fiotv;Business Service
+Business Interface ;fotv;Business Role 
+Business Interface ;fotv;Business Actor 
+Business Interface ;fotv;Business Collabration
+Business Role;cfgiotv;Business Interface
+Business Role;fiotv;Business Process
+Business Role;fiotv;Business Function
+Business Role;fiotv ;Business Interaction
+Business Role;fiotv ;Business Event
+Business Actro ;NnN;Business Interface
+Business Actro ;NnN;Business Process
+Business Actro ;NnN;Business Function
+Business Actro ;NnN;Business Interaction
+Business Actro ;NnN;Business Event
+Business Collaboration;cfgiotv;Business Interface
+Business Collaboration;fiotv;Business Process
+Business Collaboration;fiotv;Business Function
+Business Collaboration;fiotv ;Business Interaction
+Business Collaboration;fiotv ;Business Event
+Business Process;fotv;Business Process
+Business Process;cfgotv;Business Function
+Business Process;cfgotv;Business Interaction
+Business Process;fortv;Business Service 
+Business Process;ao;Business object
+Business Process;ao;Representation
+Business Process;fotv;Business Process
+Business Process;cfgotv;Business Function
+Business Process;cfgotv;Business Interaction
+Business Process;fotv;Business Evnet 
+Business Function;cfgostv;Business Process
+Business Function;cfgostv;Business Function
+Business Function;cfgotv;Business Interaction
+Business Function;fortv;Business Service 
+Business Function;ao;Business object
+Business Function;ao;Representation
+Business Function;cfgostv;Business Process
+Business Function;cfgostv;Business Function
+Business Function;cfgotv;Business Interaction
+Business Function;NnN;Business Evnet 
+Business Interaction;cfgotv;Business Process
+Business Interaction;cfgotv;Business Function
+Business Interaction;cfgostv;Business Interaction
+Business Interaction;fortv;Business Service 
+Business Interaction;ao;Business object
+Business Interaction;ao;Representation
+Business Interaction;cfgotv;Business Process
+Business Interaction;cfgotv;Business Function
+Business Interaction;cfgostv;Business Interaction
+Business Interaction;fotv;Business Evnet 
+Business Event ;cfgotv;Business Process
+Business Event ;fotv;Business Function
+Business Event ;fotv;Business Interaction
+Business Event ;ao;Business Object
+Business Event ;ao;Representation
+Business Event ;fotv;Business Service
+Business Event ;cfgostv;Business Event 

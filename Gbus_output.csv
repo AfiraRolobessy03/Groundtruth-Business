@@ -1,0 +1,307 @@
+Source;Relation;Target
+Business Service;FlowRelationship;Business Process
+Business Service;AssociationRelationship;Business Process
+Business Service;TriggeringRelationship;Business Process
+Business Service;ServingRelationship;Business Process
+Business Service;FlowRelationship;Business Function
+Business Service;AssociationRelationship;Business Function
+Business Service;TriggeringRelationship;Business Function
+Business Service;ServingRelationship;Business Function
+Business Service;FlowRelationship;Business Interaction
+Business Service;AssociationRelationship;Business Interaction
+Business Service;TriggeringRelationship;Business Interaction
+Business Service;ServingRelationship;Business Interaction
+Business Service;FlowRelationship;Business Event
+Business Service;AssociationRelationship;Business Event
+Business Service;TriggeringRelationship;Business Event
+Business Service;ServingRelationship;Business Event
+Business Service;CompositionRelationship;Business Service
+Business Service;FlowRelationship;Business Service
+Business Service;AggregationRelationship;Business Service
+Business Service;AssociationRelationship;Business Service
+Business Service;SpecializationRelationship;Business Service
+Business Service;TriggeringRelationship;Business Service
+Business Service;ServingRelationship;Business Service
+Business Service;AccessRelationship;Business Object
+Business Service;AssociationRelationship;Business Object
+Business Service;AccessRelationship;Representation
+Business Service;AssociationRelationship;Representation
+Business Service;FlowRelationship;Business Role 
+Business Service;AssociationRelationship;Business Role 
+Business Service;TriggeringRelationship;Business Role 
+Business Service;ServingRelationship;Business Role 
+Business Service;FlowRelationship;Business Actor 
+Business Service;AssociationRelationship;Business Actor 
+Business Service;TriggeringRelationship;Business Actor 
+Business Service;ServingRelationship;Business Actor 
+Business Service;FlowRelationship;Business Collabration
+Business Service;AssociationRelationship;Business Collabration
+Business Service;TriggeringRelationship;Business Collabration
+Business Service;ServingRelationship;Business Collabration
+Business Interface ;FlowRelationship;Business Service
+Business Interface ;AssignmentRelationship;Business Service
+Business Interface ;AssociationRelationship;Business Service
+Business Interface ;TriggeringRelationship;Business Service
+Business Interface ;ServingRelationship;Business Service
+Business Interface ;FlowRelationship;Business Role 
+Business Interface ;AssociationRelationship;Business Role 
+Business Interface ;TriggeringRelationship;Business Role 
+Business Interface ;ServingRelationship;Business Role 
+Business Interface ;FlowRelationship;Business Actor 
+Business Interface ;AssociationRelationship;Business Actor 
+Business Interface ;TriggeringRelationship;Business Actor 
+Business Interface ;ServingRelationship;Business Actor 
+Business Interface ;FlowRelationship;Business Collabration
+Business Interface ;AssociationRelationship;Business Collabration
+Business Interface ;TriggeringRelationship;Business Collabration
+Business Interface ;ServingRelationship;Business Collabration
+Business Role;CompositionRelationship;Business Interface
+Business Role;FlowRelationship;Business Interface
+Business Role;AggregationRelationship;Business Interface
+Business Role;AssignmentRelationship;Business Interface
+Business Role;AssociationRelationship;Business Interface
+Business Role;TriggeringRelationship;Business Interface
+Business Role;ServingRelationship;Business Interface
+Business Role;FlowRelationship;Business Process
+Business Role;AssignmentRelationship;Business Process
+Business Role;AssociationRelationship;Business Process
+Business Role;TriggeringRelationship;Business Process
+Business Role;ServingRelationship;Business Process
+Business Role;FlowRelationship;Business Function
+Business Role;AssignmentRelationship;Business Function
+Business Role;AssociationRelationship;Business Function
+Business Role;TriggeringRelationship;Business Function
+Business Role;ServingRelationship;Business Function
+Business Role;FlowRelationship;Business Interaction
+Business Role;AssignmentRelationship;Business Interaction
+Business Role;AssociationRelationship;Business Interaction
+Business Role;TriggeringRelationship;Business Interaction
+Business Role;ServingRelationship;Business Interaction
+Business Role;Unknown notation;Business Interaction
+Business Role;FlowRelationship;Business Event
+Business Role;AssignmentRelationship;Business Event
+Business Role;AssociationRelationship;Business Event
+Business Role;TriggeringRelationship;Business Event
+Business Role;ServingRelationship;Business Event
+Business Role;Unknown notation;Business Event
+Business Actro ;Unknown notation;Business Interface
+Business Actro ;InfluenceRelationship;Business Interface
+Business Actro ;Unknown notation;Business Interface
+Business Actro ;Unknown notation;Business Process
+Business Actro ;InfluenceRelationship;Business Process
+Business Actro ;Unknown notation;Business Process
+Business Actro ;Unknown notation;Business Function
+Business Actro ;InfluenceRelationship;Business Function
+Business Actro ;Unknown notation;Business Function
+Business Actro ;Unknown notation;Business Interaction
+Business Actro ;InfluenceRelationship;Business Interaction
+Business Actro ;Unknown notation;Business Interaction
+Business Actro ;Unknown notation;Business Event
+Business Actro ;InfluenceRelationship;Business Event
+Business Actro ;Unknown notation;Business Event
+Business Collaboration;CompositionRelationship;Business Interface
+Business Collaboration;FlowRelationship;Business Interface
+Business Collaboration;AggregationRelationship;Business Interface
+Business Collaboration;AssignmentRelationship;Business Interface
+Business Collaboration;AssociationRelationship;Business Interface
+Business Collaboration;TriggeringRelationship;Business Interface
+Business Collaboration;ServingRelationship;Business Interface
+Business Collaboration;FlowRelationship;Business Process
+Business Collaboration;AssignmentRelationship;Business Process
+Business Collaboration;AssociationRelationship;Business Process
+Business Collaboration;TriggeringRelationship;Business Process
+Business Collaboration;ServingRelationship;Business Process
+Business Collaboration;FlowRelationship;Business Function
+Business Collaboration;AssignmentRelationship;Business Function
+Business Collaboration;AssociationRelationship;Business Function
+Business Collaboration;TriggeringRelationship;Business Function
+Business Collaboration;ServingRelationship;Business Function
+Business Collaboration;FlowRelationship;Business Interaction
+Business Collaboration;AssignmentRelationship;Business Interaction
+Business Collaboration;AssociationRelationship;Business Interaction
+Business Collaboration;TriggeringRelationship;Business Interaction
+Business Collaboration;ServingRelationship;Business Interaction
+Business Collaboration;Unknown notation;Business Interaction
+Business Collaboration;FlowRelationship;Business Event
+Business Collaboration;AssignmentRelationship;Business Event
+Business Collaboration;AssociationRelationship;Business Event
+Business Collaboration;TriggeringRelationship;Business Event
+Business Collaboration;ServingRelationship;Business Event
+Business Collaboration;Unknown notation;Business Event
+Business Process;FlowRelationship;Business Process
+Business Process;AssociationRelationship;Business Process
+Business Process;TriggeringRelationship;Business Process
+Business Process;ServingRelationship;Business Process
+Business Process;CompositionRelationship;Business Function
+Business Process;FlowRelationship;Business Function
+Business Process;AggregationRelationship;Business Function
+Business Process;AssociationRelationship;Business Function
+Business Process;TriggeringRelationship;Business Function
+Business Process;ServingRelationship;Business Function
+Business Process;CompositionRelationship;Business Interaction
+Business Process;FlowRelationship;Business Interaction
+Business Process;AggregationRelationship;Business Interaction
+Business Process;AssociationRelationship;Business Interaction
+Business Process;TriggeringRelationship;Business Interaction
+Business Process;ServingRelationship;Business Interaction
+Business Process;FlowRelationship;Business Service 
+Business Process;AssociationRelationship;Business Service 
+Business Process;RealizationRelationship;Business Service 
+Business Process;TriggeringRelationship;Business Service 
+Business Process;ServingRelationship;Business Service 
+Business Process;AccessRelationship;Business object
+Business Process;AssociationRelationship;Business object
+Business Process;AccessRelationship;Representation
+Business Process;AssociationRelationship;Representation
+Business Process;FlowRelationship;Business Process
+Business Process;AssociationRelationship;Business Process
+Business Process;TriggeringRelationship;Business Process
+Business Process;ServingRelationship;Business Process
+Business Process;CompositionRelationship;Business Function
+Business Process;FlowRelationship;Business Function
+Business Process;AggregationRelationship;Business Function
+Business Process;AssociationRelationship;Business Function
+Business Process;TriggeringRelationship;Business Function
+Business Process;ServingRelationship;Business Function
+Business Process;CompositionRelationship;Business Interaction
+Business Process;FlowRelationship;Business Interaction
+Business Process;AggregationRelationship;Business Interaction
+Business Process;AssociationRelationship;Business Interaction
+Business Process;TriggeringRelationship;Business Interaction
+Business Process;ServingRelationship;Business Interaction
+Business Process;FlowRelationship;Business Evnet 
+Business Process;AssociationRelationship;Business Evnet 
+Business Process;TriggeringRelationship;Business Evnet 
+Business Process;ServingRelationship;Business Evnet 
+Business Function;CompositionRelationship;Business Process
+Business Function;FlowRelationship;Business Process
+Business Function;AggregationRelationship;Business Process
+Business Function;AssociationRelationship;Business Process
+Business Function;SpecializationRelationship;Business Process
+Business Function;TriggeringRelationship;Business Process
+Business Function;ServingRelationship;Business Process
+Business Function;CompositionRelationship;Business Function
+Business Function;FlowRelationship;Business Function
+Business Function;AggregationRelationship;Business Function
+Business Function;AssociationRelationship;Business Function
+Business Function;SpecializationRelationship;Business Function
+Business Function;TriggeringRelationship;Business Function
+Business Function;ServingRelationship;Business Function
+Business Function;CompositionRelationship;Business Interaction
+Business Function;FlowRelationship;Business Interaction
+Business Function;AggregationRelationship;Business Interaction
+Business Function;AssociationRelationship;Business Interaction
+Business Function;TriggeringRelationship;Business Interaction
+Business Function;ServingRelationship;Business Interaction
+Business Function;FlowRelationship;Business Service 
+Business Function;AssociationRelationship;Business Service 
+Business Function;RealizationRelationship;Business Service 
+Business Function;TriggeringRelationship;Business Service 
+Business Function;ServingRelationship;Business Service 
+Business Function;AccessRelationship;Business object
+Business Function;AssociationRelationship;Business object
+Business Function;AccessRelationship;Representation
+Business Function;AssociationRelationship;Representation
+Business Function;CompositionRelationship;Business Process
+Business Function;FlowRelationship;Business Process
+Business Function;AggregationRelationship;Business Process
+Business Function;AssociationRelationship;Business Process
+Business Function;SpecializationRelationship;Business Process
+Business Function;TriggeringRelationship;Business Process
+Business Function;ServingRelationship;Business Process
+Business Function;CompositionRelationship;Business Function
+Business Function;FlowRelationship;Business Function
+Business Function;AggregationRelationship;Business Function
+Business Function;AssociationRelationship;Business Function
+Business Function;SpecializationRelationship;Business Function
+Business Function;TriggeringRelationship;Business Function
+Business Function;ServingRelationship;Business Function
+Business Function;CompositionRelationship;Business Interaction
+Business Function;FlowRelationship;Business Interaction
+Business Function;AggregationRelationship;Business Interaction
+Business Function;AssociationRelationship;Business Interaction
+Business Function;TriggeringRelationship;Business Interaction
+Business Function;ServingRelationship;Business Interaction
+Business Function;Unknown notation;Business Evnet 
+Business Function;InfluenceRelationship;Business Evnet 
+Business Function;Unknown notation;Business Evnet 
+Business Interaction;CompositionRelationship;Business Process
+Business Interaction;FlowRelationship;Business Process
+Business Interaction;AggregationRelationship;Business Process
+Business Interaction;AssociationRelationship;Business Process
+Business Interaction;TriggeringRelationship;Business Process
+Business Interaction;ServingRelationship;Business Process
+Business Interaction;CompositionRelationship;Business Function
+Business Interaction;FlowRelationship;Business Function
+Business Interaction;AggregationRelationship;Business Function
+Business Interaction;AssociationRelationship;Business Function
+Business Interaction;TriggeringRelationship;Business Function
+Business Interaction;ServingRelationship;Business Function
+Business Interaction;CompositionRelationship;Business Interaction
+Business Interaction;FlowRelationship;Business Interaction
+Business Interaction;AggregationRelationship;Business Interaction
+Business Interaction;AssociationRelationship;Business Interaction
+Business Interaction;SpecializationRelationship;Business Interaction
+Business Interaction;TriggeringRelationship;Business Interaction
+Business Interaction;ServingRelationship;Business Interaction
+Business Interaction;FlowRelationship;Business Service 
+Business Interaction;AssociationRelationship;Business Service 
+Business Interaction;RealizationRelationship;Business Service 
+Business Interaction;TriggeringRelationship;Business Service 
+Business Interaction;ServingRelationship;Business Service 
+Business Interaction;AccessRelationship;Business object
+Business Interaction;AssociationRelationship;Business object
+Business Interaction;AccessRelationship;Representation
+Business Interaction;AssociationRelationship;Representation
+Business Interaction;CompositionRelationship;Business Process
+Business Interaction;FlowRelationship;Business Process
+Business Interaction;AggregationRelationship;Business Process
+Business Interaction;AssociationRelationship;Business Process
+Business Interaction;TriggeringRelationship;Business Process
+Business Interaction;ServingRelationship;Business Process
+Business Interaction;CompositionRelationship;Business Function
+Business Interaction;FlowRelationship;Business Function
+Business Interaction;AggregationRelationship;Business Function
+Business Interaction;AssociationRelationship;Business Function
+Business Interaction;TriggeringRelationship;Business Function
+Business Interaction;ServingRelationship;Business Function
+Business Interaction;CompositionRelationship;Business Interaction
+Business Interaction;FlowRelationship;Business Interaction
+Business Interaction;AggregationRelationship;Business Interaction
+Business Interaction;AssociationRelationship;Business Interaction
+Business Interaction;SpecializationRelationship;Business Interaction
+Business Interaction;TriggeringRelationship;Business Interaction
+Business Interaction;ServingRelationship;Business Interaction
+Business Interaction;FlowRelationship;Business Evnet 
+Business Interaction;AssociationRelationship;Business Evnet 
+Business Interaction;TriggeringRelationship;Business Evnet 
+Business Interaction;ServingRelationship;Business Evnet 
+Business Event ;CompositionRelationship;Business Process
+Business Event ;FlowRelationship;Business Process
+Business Event ;AggregationRelationship;Business Process
+Business Event ;AssociationRelationship;Business Process
+Business Event ;TriggeringRelationship;Business Process
+Business Event ;ServingRelationship;Business Process
+Business Event ;FlowRelationship;Business Function
+Business Event ;AssociationRelationship;Business Function
+Business Event ;TriggeringRelationship;Business Function
+Business Event ;ServingRelationship;Business Function
+Business Event ;FlowRelationship;Business Interaction
+Business Event ;AssociationRelationship;Business Interaction
+Business Event ;TriggeringRelationship;Business Interaction
+Business Event ;ServingRelationship;Business Interaction
+Business Event ;AccessRelationship;Business Object
+Business Event ;AssociationRelationship;Business Object
+Business Event ;AccessRelationship;Representation
+Business Event ;AssociationRelationship;Representation
+Business Event ;FlowRelationship;Business Service
+Business Event ;AssociationRelationship;Business Service
+Business Event ;TriggeringRelationship;Business Service
+Business Event ;ServingRelationship;Business Service
+Business Event ;CompositionRelationship;Business Event 
+Business Event ;FlowRelationship;Business Event 
+Business Event ;AggregationRelationship;Business Event 
+Business Event ;AssociationRelationship;Business Event 
+Business Event ;SpecializationRelationship;Business Event 
+Business Event ;TriggeringRelationship;Business Event 
+Business Event ;ServingRelationship;Business Event 
